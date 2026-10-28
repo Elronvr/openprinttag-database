@@ -13,11 +13,11 @@ This repository is a **publicly editable database** of 3D printing materials sto
 **What's inside:**
 - **132 brands** — Material manufacturers from Prusament to Hatchbox
 <<<<<<< HEAD
-- **15,221 materials** — PLA, PETG, ASA, TPU and many more with detailed properties
-- **14,963 packages** — Physical products with GTINs/barcodes
+- **15,287 materials** — PLA, PETG, ASA, TPU and many more with detailed properties
+- **15,029 packages** — Physical products with GTINs/barcodes
 =======
-- **15,221 materials** — PLA, PETG, ASA, TPU and many more with detailed properties
-- **14,963 packages** — Physical products with GTINs/barcodes
+- **15,287 materials** — PLA, PETG, ASA, TPU and many more with detailed properties
+- **15,029 packages** — Physical products with GTINs/barcodes
 >>>>>>> a2fcffb1d14a68407dc80d789855340966357450
 - **104 containers** — Spool specifications and dimensions
 
